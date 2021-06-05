@@ -1,0 +1,32 @@
+---
+title: "Liang Fu"
+image: "images/20140114.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: GitHub
+    url: "https://github.com/liang-fu-econ"
+  - label: Email
+    url: "mailto:lfu@albany.edu"
+output:
+  postcards::jolla
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+Welcome to my personal website! 
+
+I am a PhD candidate at Department of Economics, University at Albany, SUNY. My research focus on monetary policy in China. 
+
+
+CV: 
