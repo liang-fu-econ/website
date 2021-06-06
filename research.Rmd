@@ -8,9 +8,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 ### Research Papers
-The Effects of China’s Monetary Policy Actions and Statements on Market Interest Rates
+- The Effects of China’s Monetary Policy Actions and Statements on Market Interest Rates
 
-Political Stability and Credibility of Currency Board (with Shu Feng, Chun-Yu Ho and Wai-Yip Alex Ho)
+- Political Stability and Credibility of Currency Board (with Shu Feng, Chun-Yu Ho and Wai-Yip Alex Ho)
 
-Real Exchange Rate and Innovation: Firm-Level Evidence from China (with Chun-Yu Ho and Xiaoli Zhang)
+- Real Exchange Rate and Innovation: Firm-Level Evidence from China (with Chun-Yu Ho and Xiaoli Zhang)
 
