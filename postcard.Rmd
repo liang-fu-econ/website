@@ -4,8 +4,6 @@ image: "images/20140114.jpg"
 links:
   - label: CV
     url: "https://github.com/liang-fu-econ/website/blob/main/CV_Liang_Fu.pdf"
-  - label: GitHub
-    url: "https://github.com/liang-fu-econ"
   - label: Email
     url: "mailto:lfu@albany.edu"
 output:
