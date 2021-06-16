@@ -8,7 +8,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 ### Research Papers
+<<<<<<< HEAD
 - Reactions of  Interest Rates to Monetary Policy Announcements: Assessing China’s Evolving Monetary
+=======
+- Monetary Policy Surprises and Interest Rates: Assessing China’s Evolving Monetary
+>>>>>>> 3c5845077cc8231bbf1362663a9c4026c7265db6
 Policy Framework
 
 - Political Stability and Credibility of Currency Board (with Shu Feng, Chun-Yu Ho and Wai-Yip Alex Ho) [Submitted]
