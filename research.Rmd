@@ -8,8 +8,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 ### Research Papers
-- **Reactions of  Interest Rates to Monetary Policy Announcements: Assessing China’s Evolving Monetary Policy** [Jun. 2021]
-
 - **Political Stability and Credibility of Currency Board** (with Shu Feng, Chun-Yu Ho and Wai-Yip Alex Ho) [May 2021, Under Review]
 
 - **Real Exchange Rate and Innovation: Firm-Level Evidence from China** (with Chun-Yu Ho and Xiaoli Zhang) [Jan. 2021]
