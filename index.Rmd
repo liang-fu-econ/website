@@ -22,6 +22,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-Welcome to my personal website! 
+Welcome to my personal website!
 
-I am a PhD candidate at Department of Economics, University at Albany, SUNY. My research focus on monetary policy and international trade. 
+I am a PhD candidate at [Department of Economics,](https://www.albany.edu/economics) [University at Albany, SUNY](https://www.albany.edu/). My research focus on monetary policy and international trade.
