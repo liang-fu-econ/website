@@ -7,12 +7,56 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-
 ### Latex
-- Generate tables: https://www.tablesgenerator.com/
 
-- Count words: https://app.uio.no/ifi/texcount/
+-   Generate tables: <https://www.tablesgenerator.com/>
+
+-   Count words: <https://app.uio.no/ifi/texcount/>
 
 
 
+
+### R
+
+-   **R**
+     - **An Introduction to R**: Introduction to base R
+        -  <https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf>
+
+     - **Advanced R**: Programming in R
+        - <https://adv-r.hadley.nz/>
+
+
+-   **Data Science**
+     - **R for Data Science** 
+        -  <http://r4ds.had.co.nz/>
+    
+     - **R Programming for Data Science**
+        - <https://bookdown.org/rdpeng/rprogdatascience/>
+    
+     - **R for Data Analytics**
+        - <https://rforanalytics.com/>
+
+
+-   **Data Visualization**
+     - **ggplot2 - Elegant Graphics for Data Analysis**: R package for data visualization based on the grammar of graphics
+        - <http://moderngraphics11.pbworks.com/f/ggplot2-Book09hWickham.pdf> 
+     
+     - **A Layered Grammar of Graphics** 
+        - <https://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf>
+
+     - **Data Visualization - A Practical Introduction**：Data visualization using ggplot2
+        - <http://socviz.co/>
+
+
+-   **Markdown**
+     - **The Markdown Guide**
+       - <https://www.markdownguide.org/>
+       
+     - **R Markdown**
+       - <https://rmarkdown.rstudio.com/index.html>
+    
+        
+-   **Version Control**
+     - **Happy Git and GitHub for the useR**
+        - <https://happygitwithr.com/>
 

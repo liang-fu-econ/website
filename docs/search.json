@@ -25,8 +25,8 @@
       "path": "resources.html",
       "title": "Resources",
       "author": [],
-      "contents": "\r\nLatex\r\nGenerate tables: https://www.tablesgenerator.com/\r\nCount words: https://app.uio.no/ifi/texcount/\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-16T06:42:37-04:00"
+      "contents": "\r\nLatex\r\nGenerate tables: https://www.tablesgenerator.com/\r\nCount words: https://app.uio.no/ifi/texcount/\r\nR\r\nR\r\nAn Introduction to R: Introduction to base R\r\nhttps://cran.r-project.org/doc/manuals/r-release/R-intro.pdf\r\n\r\nAdvanced R: Programming in R\r\nhttps://adv-r.hadley.nz/\r\n\r\n\r\nData Science\r\nR for Data Science\r\nhttp://r4ds.had.co.nz/\r\n\r\nR Programming for Data Science\r\nhttps://bookdown.org/rdpeng/rprogdatascience/\r\n\r\nR for Data Analytics\r\nhttps://rforanalytics.com/\r\n\r\n\r\nData Visualization\r\nggplot2 - Elegant Graphics for Data Analysis: R package for data visualization based on the grammar of graphics\r\nhttp://moderngraphics11.pbworks.com/f/ggplot2-Book09hWickham.pdf\r\n\r\nA Layered Grammar of Graphics\r\nhttps://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf\r\n\r\nData Visualization - A Practical Introduction：Data visualization using ggplot2\r\nhttp://socviz.co/\r\n\r\n\r\nMarkdown\r\nThe Markdown Guide\r\nhttps://www.markdownguide.org/\r\n\r\nR Markdown\r\nhttps://rmarkdown.rstudio.com/index.html\r\n\r\n\r\nVersion Control\r\nHappy Git and GitHub for the useR\r\nhttps://happygitwithr.com/\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-10T10:58:38-04:00"
     },
     {
       "path": "teaching.html",
