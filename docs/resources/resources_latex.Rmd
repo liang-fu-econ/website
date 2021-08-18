@@ -1,0 +1,16 @@
+---
+title: "Latex"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+- **Generate tables**: <https://www.tablesgenerator.com/>
+
+- **Count words**: <https://app.uio.no/ifi/texcount/>
+
+
+
