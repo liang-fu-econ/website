@@ -3,7 +3,7 @@ title: "Liang Fu"
 image: "images/20140114.jpg"
 links:
   - label: CV
-    url: "https://github.com/liang-fu-econ/website/blob/main/CV_Liang_Fu.pdf"
+    url: [cv/CV_Liang_Fu_202108.pdf]
   - label: Email
     url: "mailto:lfu@albany.edu"
 output:
