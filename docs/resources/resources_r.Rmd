@@ -8,53 +8,53 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-### R
+### <span style="color:blue;">R</span>
 
 - **An Introduction to R**: Introduction to base R
-   -  <https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf>
+   -  <https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf>{target="_blank"}
 
 - **Advanced R**: Programming in R
-   - <https://adv-r.hadley.nz/>
+   - <https://adv-r.hadley.nz/>{target="_blank"}
 
 
 
-### Data Science
+### <span style="color:blue;">Data Science</span>
 - **R for Data Science** 
-   -  <http://r4ds.had.co.nz/>
+   -  <http://r4ds.had.co.nz/>{target="_blank"}
     
 - **R Programming for Data Science**
-   - <https://bookdown.org/rdpeng/rprogdatascience/>
+   - <https://bookdown.org/rdpeng/rprogdatascience/>{target="_blank"}
     
 - **R for Data Analytics**
-   - <https://rforanalytics.com/>
+   - <https://rforanalytics.com/>{target="_blank"}
 
 - **Data Science in a Box**
-   - <https://datasciencebox.org/>
+   - <https://datasciencebox.org/>{target="_blank"}
 
 
 
-### Data Visualization
+### <span style="color:blue;">Data Visualization</span>
 - **ggplot2 - Elegant Graphics for Data Analysis**: R package for data visualization based on the grammar of graphics
-   - <http://moderngraphics11.pbworks.com/f/ggplot2-Book09hWickham.pdf> 
+   - <http://moderngraphics11.pbworks.com/f/ggplot2-Book09hWickham.pdf>{target="_blank"} 
      
 - **A Layered Grammar of Graphics** 
-   - <https://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf>
+   - <https://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf>{target="_blank"}
 
 - **Data Visualization - A Practical Introduction**：Data visualization using ggplot2
-   - <http://socviz.co/>
+   - <http://socviz.co/>{target="_blank"}
 
 
 
-### Markdown
+### <span style="color:blue;">Markdown</span>
 - **The Markdown Guide**
-   - <https://www.markdownguide.org/>
+   - <https://www.markdownguide.org/>{target="_blank"}
        
 - **R Markdown**
-   - <https://rmarkdown.rstudio.com/index.html>
+   - <https://rmarkdown.rstudio.com/index.html>{target="_blank"}
     
         
 
-### Version Control 
+### <span style="color:blue;">Version Control</span> 
 - **Happy Git and GitHub for the useR**
-   - <https://happygitwithr.com/>
+   - <https://happygitwithr.com/>{target="_blank"}
 

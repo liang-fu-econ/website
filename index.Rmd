@@ -8,11 +8,11 @@ site: distill::distill_website
  
 Welcome to my personal website!
 
-I am a PhD candidate at [Department of Economics](https://www.albany.edu/economics){target="_blank"}, [University at Albany, SUNY](https://www.albany.edu/){target="_blank"}. My main research fields are Monetary Economics and International Economics. My currenct research focus on China's evolving monetary policy framework. 
+I am a PhD candidate at [Department of Economics](https://www.albany.edu/economics){target="_blank"}, [University at Albany, SUNY](https://www.albany.edu/){target="_blank"}. My main research fields are **Monetary Economics** and **International Economics**. My currenct research focus on China's evolving monetary policy framework. 
 <br>
 <br>
 <br>
 
-[**CV**](cv/cv_short.html){target="_blank"}
+[**CV**](cv/CV_Liang_Fu_202108.pdf){target="_blank"}
 
 [lfu\@albany.edu](mailto:lfu@albany.edu){.email}
