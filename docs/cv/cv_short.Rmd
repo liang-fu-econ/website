@@ -7,15 +7,8 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 <p align="center">
-[View full CV here](CV_Liang_Fu_202108.pdf){target="_blank"}
+[<span style="color: blue;">**View full CV here**</span>](CV_Liang_Fu_202108.pdf){target="_blank"}
 </p>
-
-## <span style="color: blue;">Contact Information</span>
-
--   **Email**: [lfu\@albany.edu](mailto:lfu@albany.edu){.email}
-
--   **Phone**: (+1)518-912-9346
-
 
 
 ## <span style="color: blue;">Education</span>

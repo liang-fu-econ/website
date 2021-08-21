@@ -1,27 +1,18 @@
 ---
 title: "Liang Fu"
 image: "images/20140114.jpg"
-links:
-  - label: CV
-    url: cv/cv_short.html
-  - label: Email
-    url: "mailto:lfu@albany.edu"
 output:
-  postcards::jolla
+  postcards::trestles
 site: distill::distill_website
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
-```
-
+ 
 Welcome to my personal website!
 
-I am a PhD candidate at [Department of Economics](https://www.albany.edu/economics){target="_blank"}, [University at Albany, SUNY](https://www.albany.edu/){target="_blank"}. My research focus on monetary policy and international trade.
+I am a PhD candidate at [Department of Economics](https://www.albany.edu/economics){target="_blank"}, [University at Albany, SUNY](https://www.albany.edu/){target="_blank"}. My main research fields are Monetary Economics and International Economics. My currenct research focus on China's evolving monetary policy framework. 
+<br>
+<br>
+<br>
+
+[**CV**](cv/cv_short.html){target="_blank"}
+
+[lfu\@albany.edu](mailto:lfu@albany.edu){.email}
