@@ -7,9 +7,9 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-### [Latex](resources/resources_latex.html){target="_blank"}
+### [<span style="color:blue;">Latex</span>](resources/resources_latex.html){target="_blank"}
 
 
 
-### [R](resources/resources_r.html){target="_blank"}
+### [<span style="color:blue;">R</span>](resources/resources_r.html){target="_blank"}
 

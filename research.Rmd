@@ -6,7 +6,7 @@ title: "Research"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-### Research Papers
+### <span style="color: blue;">Working Papers</span>
 
 -   **Monetary Policy Surprises and Interest Rates under China's Evolving Monetary Policy Framework** (with Chun-Yu Ho) [August 2021, Revision Requested by *Emerging Markets Review*]
 
