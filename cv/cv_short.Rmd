@@ -7,7 +7,7 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 <p align="center">
-[View full CV here](CV_Liang_Fu_202108.pdf)
+[View full CV here](CV_Liang_Fu_202108.pdf){target="_blank"}
 </p>
 
 ## <span style="color: blue;">Contact Information</span>
@@ -20,13 +20,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## <span style="color: blue;">Education</span>
 
--   **Ph.D. Economics**, [University at Albany, SUNY](https://www.albany.edu/)
+-   **Ph.D. Economics**, [University at Albany, SUNY](https://www.albany.edu/){target="_blank"}
 
     -   Expected Completion Date: December 2021
 
--   **M.A. Economics**, [Central University of Finance and Economics](http://en.cufe.edu.cn/), 2014
+-   **M.A. Economics**, [Central University of Finance and Economics](http://en.cufe.edu.cn/){target="_blank"}, 2014
 
--   **B.S. Management**, [Qingdao University](https://english.qdu.edu.cn/), 2011
+-   **B.S. Management**, [Qingdao University](https://english.qdu.edu.cn/){target="_blank"}, 2011
 
 
 
