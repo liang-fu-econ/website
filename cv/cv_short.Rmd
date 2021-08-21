@@ -1,0 +1,52 @@
+---
+title: "Liang Fu"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+<p align="center">
+[View full CV here](CV_Liang_Fu_202108.pdf)
+</p>
+
+## <span style="color: blue;">Contact Information</span>
+
+-   **Email**: [lfu\@albany.edu](mailto:lfu@albany.edu){.email}
+
+-   **Phone**: (+1)518-912-9346
+
+
+
+## <span style="color: blue;">Education</span>
+
+-   **Ph.D. Economics**, [University at Albany, SUNY](https://www.albany.edu/)
+
+    -   Expected Completion Date: December 2021
+
+-   **M.A. Economics**, [Central University of Finance and Economics](http://en.cufe.edu.cn/), 2014
+
+-   **B.S. Management**, [Qingdao University](https://english.qdu.edu.cn/), 2011
+
+
+
+## <span style="color: blue;">Teaching and Research Fields</span>
+
+-   **Primary fields**: Monetary Economics, International Economics
+
+-   **Secondary fields**: Chinese Economy
+
+
+
+## <span style="color: blue;">Personal Information</span>
+
+-   **Date of Birth**: July 7, 1989
+
+-   **Gender**: Male
+
+-   **Citizenship**: China
+
+
+
+
+

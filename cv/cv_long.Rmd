@@ -1,5 +1,5 @@
 ---
-title: "[Liang Fu](cv/CV_LiangFu_202108.pdf)"
+title: "Liang Fu"
 output: distill::distill_article
 ---
 
@@ -39,13 +39,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Teaching Experience
 
--   **Instructor**, University at Albany, SNUY, *08/2018 - current*
+-   **Instructor**, University at Albany, SNUY, 08/2018 - current
 
     -   Economic Statistics (Undergraduate): Fall 2021
     -   Money and Banking (Undergraduate): Summer 2018, Fall 2018, Fall 2019, Spring 2020
     -   Intermediate Macroeconomics (Undergraduate): Spring 2019, Fall 2020, Spring 2021
 
--   **Teaching Assistant**, University at Albany, SUNY, *09/2014 - 05/2016*
+-   **Teaching Assistant**, University at Albany, SUNY, 09/2014 - 05/2016
 
     -   Microeconomics II (PhD): Spring 2016
     -   Public Microeconomics (Undergraduate): Spring 2016
@@ -65,7 +65,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-# Scholarships, Honors, and Awards
+## Scholarships, Honors, and Awards
 
 -   **Helen Horowitz Excellence in Teaching Award**, University at Albany, SUNY, 2019
 
