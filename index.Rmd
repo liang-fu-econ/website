@@ -8,11 +8,7 @@ site: distill::distill_website
  
 Welcome to my personal website!
 
-<<<<<<< HEAD
 I am a PhD candidate at [Department of Economics](https://www.albany.edu/economics){target="_blank"}, [University at Albany, SUNY](https://www.albany.edu/){target="_blank"}. My main research fields are **Monetary Economics** and **International Economics**. My current research focuses on the transition of monetary policy in China. 
-=======
-I am a PhD candidate at [Department of Economics](https://www.albany.edu/economics){target="_blank"}, [University at Albany, SUNY](https://www.albany.edu/){target="_blank"}. My main research fields are **Monetary Economics** and **International Economics**. My current research focus on the transition of monetary policy in China. 
->>>>>>> 6dbe10a8bd7523f2a2efa7afc600699c072580f9
 
 I am on the 2021-2022 job market and available for interviews.
 <br>
