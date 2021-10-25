@@ -8,8 +8,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### <span style="color: blue;">Working Papers</span>
 
--   **Monetary Policy Surprises and Interest Rates under China's Evolving Monetary Policy Framework** (with Chun-Yu Ho) [August 2021, Revision Requested by *Emerging Markets Review*]
+-   **Monetary Policy Surprises and Interest Rates under China's Evolving Monetary Policy Framework** (with Chun-Yu Ho) [August 2021, Revision Requested by [<span style="color:blue;">Emerging Markets Review</span>](https://www.journals.elsevier.com/emerging-markets-review){target="_blank"}
 
--   **Political Stability and Credibility of Currency Board** (with Shu Feng, Chun-Yu Ho and Wai-Yip Alex Ho) [August 2021, Revision Requested by *Journal of International Money and Finance*]
+-   **Political Stability and Credibility of Currency Board** (with Shu Feng, Chun-Yu Ho and Wai-Yip Alex Ho) [August 2021, Revision Requested by [<span style="color:blue;">Journal of International Money and Finance</span>](https://www.journals.elsevier.com/emerging-markets-review){target="_blank"}
 
 -   **Real Exchange Rate and Innovation: Firm-Level Evidence from China** (with Chun-Yu Ho and Xiaoli Zhang) [January 2021]
