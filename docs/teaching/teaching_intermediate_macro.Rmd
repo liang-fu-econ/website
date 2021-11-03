@@ -1,0 +1,31 @@
+---
+title: "Readings"
+output: distill::distill_article
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+#### [GDP:]{style="color:blue;"}
+
+Wolla, Scott A. [How Do Imports Affect GDP?](https://research.stlouisfed.org/publications/page1-econ/2018/09/04/how-do-imports-affect-gdp?utm_medium=email&utm_campaign=201808B%20Research%20Newsletter&utm_content=201808B%20Research%20Newsletter+CID_c57d0d7d60c39735b516cd00b76181ec&utm_source=Research%20newsletter&utm_term=Page%20One%20Economics). Page One Economics® (September 2018).
+
+Feldstein, Martin. Underestimating the real growth of GDP, personal income, and productivity. *Journal of Economic Perspectives* 31.2 (2017): 145-64.
+
+Pakko, Michael R. The business cycle and chain-weighted GDP: Has our perspective changed. *Federal Reserve Bank of St. Louis Review* (1997): 39-49.
+
+Landefeld, J. Steven, Brent R. Moulton, and Cindy M. Vojtech. Chained-dollar indexes: Issues, Tips on Their Use, and Upcoming Changes. *Survey of Current Business* (2003): 8-16.
+
+
+
+
+#### [Business cycles:]{style="color:blue;"}
+Plosser, Charles I. Understanding real business cycles. *Journal of Economic Perspectives* 3.3 (1989): 51-77.
+
+Mankiw, N. Gregory. Real business cycles: A new Keynesian perspective. *Journal of economic perspectives* 3.3 (1989): 79-90.
+
+Romer, Christina D. Changes in business cycles: evidence and explanations. *Journal of Economic perspectives* 13.2 (1999): 23-44. 
