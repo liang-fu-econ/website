@@ -46,7 +46,7 @@ knitr::opts_chunk$set(echo = FALSE)
    - <https://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf>{target="_blank"}
 
 - **Data Visualization - A Practical Introduction**：Data visualization using ggplot2
-   - <http://socviz.co/>{target="_blank"}
+   - <http://socviz.co>{target="_blank"}
 
 
 
@@ -61,5 +61,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### <span style="color:blue;">Version Control</span> 
 - **Happy Git and GitHub for the useR**
-   - <https://happygitwithr.com/>{target="_blank"}
+   - <https://happygitwithr.com>{target="_blank"}
 
