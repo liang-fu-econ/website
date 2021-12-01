@@ -1,6 +1,6 @@
 ---
 title: "Liang Fu<br>付亮"
-image: "images/20140114.jpg"
+image: "images/Photo.png"
 output:
   postcards::trestles
 site: distill::distill_website

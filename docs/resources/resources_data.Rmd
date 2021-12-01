@@ -13,11 +13,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - **BIS**: <https://www.bis.org/statistics/>{target="_blank"}
 
+- **World Bank**: <https://data.worldbank.org/>{target="_blank"}
+
 - **DBnomics**: <https://db.nomics.world/>{target="_blank"}
 
 - **eurostat**: <https://ec.europa.eu/eurostat>{target="_blank"}
 
 - **OECD data**: <https://data.oecd.org/>{target="_blank"}
+
+- **Macrohistory Database**: <https://www.macrohistory.net/database/>{target="_blank"}
 
 - **Economic Policy Uncertainty**: <http://www.policyuncertainty.com>{target="_blank"}
 

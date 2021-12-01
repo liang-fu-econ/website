@@ -14,22 +14,27 @@ knitr::opts_chunk$set(echo = FALSE)
    -  <https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf>{target="_blank"}
 
 - **Advanced R**: Programming in R
-   - <https://adv-r.hadley.nz/>{target="_blank"}
+   - <https://adv-r.hadley.nz>{target="_blank"}
 
+
+### <span style="color:blue;">Econometrics</span>
+
+- **Introduction to Econometrics with R** 
+   -  <https://www.econometrics-with-r.org>{target="_blank"}
 
 
 ### <span style="color:blue;">Data Science</span>
 - **R for Data Science** 
-   -  <http://r4ds.had.co.nz/>{target="_blank"}
+   -  <http://r4ds.had.co.nz>{target="_blank"}
     
 - **R Programming for Data Science**
-   - <https://bookdown.org/rdpeng/rprogdatascience/>{target="_blank"}
+   - <https://bookdown.org/rdpeng/rprogdatascience>{target="_blank"}
     
 - **R for Data Analytics**
-   - <https://rforanalytics.com/>{target="_blank"}
+   - <https://rforanalytics.com>{target="_blank"}
 
 - **Data Science in a Box**
-   - <https://datasciencebox.org/>{target="_blank"}
+   - <https://datasciencebox.org>{target="_blank"}
 
 
 
@@ -47,10 +52,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### <span style="color:blue;">Markdown</span>
 - **The Markdown Guide**
-   - <https://www.markdownguide.org/>{target="_blank"}
+   - <https://www.markdownguide.org>{target="_blank"}
        
 - **R Markdown**
-   - <https://rmarkdown.rstudio.com/index.html>{target="_blank"}
+   - <https://rmarkdown.rstudio.com>{target="_blank"}
     
         
 
