@@ -10,6 +10,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 -   **Monetary Policy Surprises and Interest Rates under China's Evolving Monetary Policy Framework** (with Chun-Yu Ho) [August 2021, Revision Requested by [*Emerging Markets Review*]{style="color:blue;"} [[Draft]](research/China_MP_IR.pdf){target="_blank"}
 
--   **Political Stability and Credibility of Currency Board** (with Shu Feng, Chun-Yu Ho and Wai-Yip Alex Ho) [August 2021, Revision Requested by [*Journal of International Money and Finance*]{style="color:blue;"}
+-   **Political Stability and Credibility of Currency Board** (with Shu Feng, Chun-Yu Ho and Wai-Yip Alex Ho) [August 2021, Revision Requested by [*Journal of International Money and Finance*]{style="color:blue;"} [[Draft]](research/cba_ps.pdf){target="_blank"}
 
 -   **Real Exchange Rate and Innovation: Firm-Level Evidence from China** (with Chun-Yu Ho and Xiaoli Zhang) [[Draft]](research/rer_innovation.pdf){target="_blank"}
