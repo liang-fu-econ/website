@@ -10,7 +10,7 @@ editor_options:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-#### [Commercial paper:]{style="color:blue;"}
+### [Commercial paper:]{style="color:blue;"}
 
 Anderson, Richard G., and Charles S. Gascon. [The Commercial Paper Market, the Fed, and the 2007-2009 Financial Crisis](https://research.stlouisfed.org/publications/review/2009/11/02/the-commercial-paper-market-the-fed-and-the-2007-2009-financial-crisis/). *Federal Reserve Bank of St. Louis Review* 91.6 (2009): 589-612.
 
@@ -18,7 +18,7 @@ Kacperczyk, Marcin, and Philipp Schnabl. When Safe Proved Risky: Commercial Pape
 
 
 
-#### [Money:]{style="color:blue;"}  
+### [Money:]{style="color:blue;"}  
 
 Lee, Michael, and Antoine Martin. [Hey, Economist! What Do Cryptocurrencies Have to Do with Trust?](https://libertystreeteconomics.newyorkfed.org/2018/02/hey-economist-what-do-cryptocurrencies-have-to-do-with-trust.html#more).
 Liberty Street Economics (2/9/2018).
@@ -28,14 +28,14 @@ Lee, Michael, and Antoine Martin. [Bitcoin Is Not a New Type of Money](https://l
 
 
 
-#### [Interest rate:]{style="color:blue;"}  
+### [Interest rate:]{style="color:blue;"}  
 
 SEC's Office of Investor Education and Advocacy. [Interest Rate Risk --- When Interest Rates Go Up, Prices of Fixed-Rate Bonds Fall](https://www.sec.gov/investor/alerts/ib_interestraterisk.html). (6/1/2013).
 
 
 
 
-#### [Yield curve:]{style="color:blue;"} 
+### [Yield curve:]{style="color:blue;"} 
 
 Mendez-Carbajo, Diego. [Should We Fear the Inverted Yield Curve?](https://research.stlouisfed.org/publications/page1-econ/2019/11/29/should-we-fear-the-inverted-yield-curve). Page One Economics® (December 2019).
 
@@ -44,14 +44,14 @@ Andolfatto, David, and Andrew Spewak. [Does the Yield Curve Really Forecast Rece
 
 
 
-#### [Rating agency:]{style="color:blue;"} 
+### [Rating agency:]{style="color:blue;"} 
 
 White, Lawrence J. Markets: The Credit Rating Agencies. *Journal of Economic Perspectives* 24.2 (2010): 211-26.
 
 
 
 
-#### [Monetary policy:]{style="color:blue;"} 
+### [Monetary policy:]{style="color:blue;"} 
 
 Ihrig, Jane E., Ellen E. Meade, and Gretchen C. Weinbach. Rewriting Monetary Policy 101: What's the Fed's Preferred Post-Crisis Approach to Raising Interest Rates?. *Journal of Economic Perspectives* 29.4 (2015): 177-98.
 

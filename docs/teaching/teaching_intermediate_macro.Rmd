@@ -10,7 +10,7 @@ editor_options:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-#### [GDP:]{style="color:blue;"}
+### [GDP:]{style="color:blue;"}
 
 Wolla, Scott A. [How Do Imports Affect GDP?](https://research.stlouisfed.org/publications/page1-econ/2018/09/04/how-do-imports-affect-gdp?utm_medium=email&utm_campaign=201808B%20Research%20Newsletter&utm_content=201808B%20Research%20Newsletter+CID_c57d0d7d60c39735b516cd00b76181ec&utm_source=Research%20newsletter&utm_term=Page%20One%20Economics). Page One Economics® (September 2018).
 
@@ -23,7 +23,7 @@ Landefeld, J. Steven, Brent R. Moulton, and Cindy M. Vojtech. [Chained-Dollar In
 
 
 
-#### [Business cycles:]{style="color:blue;"}
+### [Business cycles:]{style="color:blue;"}
 Plosser, Charles I. Understanding Real Business Cycles. *Journal of Economic Perspectives* 3.3 (1989): 51-77.
 
 Mankiw, N. Gregory. Real Business Cycles: A New Keynesian Perspective. *Journal of Economic Perspectives* 3.3 (1989): 79-90.
