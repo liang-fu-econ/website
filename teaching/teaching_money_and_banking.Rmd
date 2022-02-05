@@ -30,7 +30,7 @@ Lee, Michael, and Antoine Martin. [Bitcoin Is Not a New Type of Money](https://l
 
 #### [Interest rate:]{style="color:blue;"}  
 
-SEC's Office of Investor Education and Advocacy. [Interest Rate Risk --- When Interest Rates Go Up, Prices of Fixed-rate Bonds Fall](https://www.sec.gov/investor/alerts/ib_interestraterisk.html). (6/1/2013).
+SEC's Office of Investor Education and Advocacy. [Interest Rate Risk --- When Interest Rates Go Up, Prices of Fixed-Rate Bonds Fall](https://www.sec.gov/investor/alerts/ib_interestraterisk.html). (6/1/2013).
 
 
 
