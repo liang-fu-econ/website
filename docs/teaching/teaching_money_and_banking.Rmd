@@ -1,9 +1,13 @@
 ---
 title: "Readings"
+description: |
+  Money and Banking
+author:
+  - name: Liang Fu
+    url: https://liang-fu-econ.github.io/website/
+date: "May 15, 2020"
 output: distill::distill_article
-editor_options: 
-  markdown: 
-    wrap: 72
+theme: theme.css
 ---
 
 ```{r setup, include=FALSE}

@@ -5,7 +5,10 @@ description: |
 author:
   - name: Liang Fu
     url: https://liang-fu-econ.github.io/website/
+    # affiliation: Spacely Sprockets
+    # affiliation_url: https://example.com/spacelysprokets
 date: "May 15, 2021"
+#date: "`r Sys.Date()`"
 output: distill::distill_article
 theme: theme.css
 ---
@@ -33,3 +36,5 @@ Plosser, Charles I. Understanding Real Business Cycles. *Journal of Economic Per
 Mankiw, N. Gregory. Real Business Cycles: A New Keynesian Perspective. *Journal of Economic Perspectives* 3.3 (1989): 79-90.
 
 Romer, Christina D. Changes in Business Cycles: Evidence and Explanations. *Journal of Economic Perspectives* 13.2 (1999): 23-44. 
+
+
