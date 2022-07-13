@@ -8,11 +8,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### [Working Papers]{style="color: blue;"}
 
--   **Monetary Policy Surprises and Interest Rates under China's Evolving Monetary Policy Framework** (with Chun-Yu Ho) [*Emerging Markets Review*]{style="color:blue;"}, *Conditionally Accepted*. [[Draft]](research/China_MP_IR_EMR3.pdf){target="_blank"}
-
--   **Political Stability and Credibility of Currency Board** (with Shu Feng, Chun-Yu Ho and Wai-Yip Alex Ho) [*Journal of International Money and Finance*]{style="color:blue;"}, *Revised and Resubmitted*. [[Draft]](research/cba_ps.pdf){target="_blank"}
+-   **Political Stability and Credibility of Currency Board** (with Shu Feng, Chun-Yu Ho and Wai-Yip Alex Ho) [*Journal of International Money and Finance*]{style="color:blue;"}, *Revised and Resubmitted (2nd round)*. [[Draft]](research/cba_ps.pdf){target="_blank"}
 
 -   **Real Exchange Rate and Innovation: Firm-Level Evidence from China** (with Chun-Yu Ho and Xiaoli Zhang) 
 
 
- 
+
+### [Pulications]{style="color: blue;"}
+
+- Fu, Liang and Chun-Yu Ho.**"Monetary Policy Surprises and Interest Rates under China's Evolving Monetary Policy Framework."** [*Emerging Markets Review*]{style="color:blue;"}, *Forthcoming*. https://doi.org/10.1016/j.ememar.2022.100895 
