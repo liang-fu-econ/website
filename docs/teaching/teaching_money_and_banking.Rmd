@@ -1,0 +1,64 @@
+---
+title: "Readings"
+description: |
+  Money and Banking
+author:
+  - name: Liang Fu
+    url: https://liang-fu-econ.github.io/website/
+date: "May 15, 2020"
+output: distill::distill_article
+theme: theme.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### [Commercial paper:]{style="color:blue;"}
+
+Anderson, Richard G., and Charles S. Gascon. [The Commercial Paper Market, the Fed, and the 2007-2009 Financial Crisis](https://research.stlouisfed.org/publications/review/2009/11/02/the-commercial-paper-market-the-fed-and-the-2007-2009-financial-crisis/). *Federal Reserve Bank of St. Louis Review* 91.6 (2009): 589-612.
+
+Kacperczyk, Marcin, and Philipp Schnabl. When Safe Proved Risky: Commercial Paper During the Financial Crisis of 2007-2009. *Journal of Economic Perspectives* 24.1 (2010): 29-50.
+
+
+
+### [Money:]{style="color:blue;"}  
+
+Lee, Michael, and Antoine Martin. [Hey, Economist! What Do Cryptocurrencies Have to Do with Trust?](https://libertystreeteconomics.newyorkfed.org/2018/02/hey-economist-what-do-cryptocurrencies-have-to-do-with-trust.html#more).
+Liberty Street Economics (2/9/2018).
+
+Lee, Michael, and Antoine Martin. [Bitcoin Is Not a New Type of Money](https://libertystreeteconomics.newyorkfed.org/2020/06/bitcoin-is-not-a-new-type-of-money.html). Liberty Street Economics (6/18/2020).
+
+
+
+
+### [Interest rate:]{style="color:blue;"}  
+
+SEC's Office of Investor Education and Advocacy. [Interest Rate Risk --- When Interest Rates Go Up, Prices of Fixed-Rate Bonds Fall](https://www.sec.gov/investor/alerts/ib_interestraterisk.html). (6/1/2013).
+
+
+
+
+### [Yield curve:]{style="color:blue;"} 
+
+Mendez-Carbajo, Diego. [Should We Fear the Inverted Yield Curve?](https://research.stlouisfed.org/publications/page1-econ/2019/11/29/should-we-fear-the-inverted-yield-curve). Page One Economics® (December 2019).
+
+Andolfatto, David, and Andrew Spewak. [Does the Yield Curve Really Forecast Recession?](https://research.stlouisfed.org/publications/economic-synopses/2018/11/30/does-the-yield-curve-really-forecast-recession/#:~:text=In%20this%20way%2C%20an%20inverted,that%20make%20recession%20more%20likely.&text=The%20figure%20plots%20the%2010,capita%20consumption%20(excluding%20durables)). *Economic Synopses* 30 (2018): 1-2.
+
+
+
+
+### [Rating agency:]{style="color:blue;"} 
+
+White, Lawrence J. Markets: The Credit Rating Agencies. *Journal of Economic Perspectives* 24.2 (2010): 211-26.
+
+
+
+
+### [Monetary policy:]{style="color:blue;"} 
+
+Ihrig, Jane E., Ellen E. Meade, and Gretchen C. Weinbach. Rewriting Monetary Policy 101: What's the Fed's Preferred Post-Crisis Approach to Raising Interest Rates?. *Journal of Economic Perspectives* 29.4 (2015): 177-98.
+
+Lester, Benjamin. Implementing Monetary Policy in a Changing Federal Funds Market. *Economic Insights* 4.2 (2019): 15-20.
+
+Ihrig, Jane, and Scott A. Wolla. [The Fed's New Monetary Policy Tools](https://research.stlouisfed.org/publications/page1-econ/2020/08/03/the-feds-new-monetary-policy-tools). Page One Economics® (August 2020).

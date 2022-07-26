@@ -1,0 +1,40 @@
+---
+title: "Data"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+- **FRED**: <https://fred.stlouisfed.org>{target="_blank"}
+
+- **IMF**: <https://www.imf.org/en/Data>{target="_blank"}
+
+- **BIS**: <https://www.bis.org/statistics>{target="_blank"}
+
+- **World Bank**: <https://data.worldbank.org>{target="_blank"}
+
+- **DBnomics**: <https://db.nomics.world>{target="_blank"}
+
+- **eurostat**: <https://ec.europa.eu/eurostat>{target="_blank"}
+
+- **OECD data**: <https://data.oecd.org>{target="_blank"}
+
+- **Macrohistory Database**: <https://www.macrohistory.net/database>{target="_blank"}
+
+- **Economic Policy Uncertainty**: <http://www.policyuncertainty.com>{target="_blank"}
+
+- **Inflation**: <https://www.worldbank.org/en/research/brief/inflation-database>{target="_blank"}
+
+- **Capital Control Measures**: <http://www.columbia.edu/~mu2166/fkrsu>{target="_blank"}
+
+- **China's Macroeconomy**: <https://www.atlantafed.org/cqer/research/china-macroeconomy.aspx>{target="_blank"}
+
+
+
+
+
+
+
+ 
