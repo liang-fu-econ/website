@@ -7,86 +7,63 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Education
+# Education
 
--   **Ph.D. Economics**, [University at Albany, SUNY](https://www.albany.edu/)
+-   Ph.D. Economics, [University at Albany, SUNY](https://www.albany.edu/), U.S., 2022
 
-    -   [Expected Completion Date]{.ul}: December 2021
+-   M.A. Economics, [Central University of Finance and Economics](http://en.cufe.edu.cn/), China, 2014
 
--   **M.A. Economics**, [Central University of Finance and Economics](http://en.cufe.edu.cn/), 2014
-
--   **B.S. Management**, [Qingdao University](https://english.qdu.edu.cn/), 2011
+-   B.S. Management, [Qingdao University](https://istudy.qdu.edu.cn/en/index), China, 2011
 
 
 
-## Teaching and Research Fields
+# Research Fields
 
--   **Primary fields**: Monetary Economics, International Economics
-
--   **Secondary fields**: Chinese Economy
-
-
-
-## Research Papers
-
--   **Monetary Policy Surprises and Interest Rates under China's Evolving Monetary Policy Framework** (with Chun-Yu Ho) [Revision Requested by *Emerging Markets Review*]
-
--   **Political Stability and Credibility of Currency Board** (with Shu Feng, Chun-Yu Ho and Wai-Yip Alex Ho) [August 2021, Revision Requested by *Journal of International Money and Finance*]
-
--   **Real Exchange Rate and Innovation: Firm-Level Evidence from China** (with Chun-Yu Ho and Xiaoli Zhang) [January 2021]
+-   Monetary Economics
+-   International Economics
 
 
 
-## Teaching Experience
+# Publications
 
--   **Instructor**, University at Albany, SNUY, 08/2018 - current
+-   Fu, Liang and Chun-Yu Ho, Monetary Policy Surprises and Interest Rates under China's Evolving Monetary Policy Framework. *Emerging Markets Review*
+
+
+
+# Teaching Experience
+
+-   University at Albany, SNUY, 08/2018 - 12/2021
 
     -   Economic Statistics (Undergraduate): Fall 2021
     -   Money and Banking (Undergraduate): Summer 2018, Fall 2018, Fall 2019, Spring 2020
     -   Intermediate Macroeconomics (Undergraduate): Spring 2019, Fall 2020, Spring 2021
 
--   **Teaching Assistant**, University at Albany, SUNY, 09/2014 - 05/2016
 
-    -   Microeconomics II (PhD): Spring 2016
-    -   Public Microeconomics (Undergraduate): Spring 2016
-    -   Applied Econometrics (Undergraduate): Fall 2015
-    -   Economics of Labor (Undergraduate): Fall 2014, Spring 2015
 
--   **Teaching Assistant**, Central University of Finance and Economics, *02/2012 - 01/2013*
+# Research Experience
 
-    -   Production and Consumption Theory (Undergraduate): Fall 2012
-    -   Intermediate Microeconomics (Undergraduate): Spring 2012
+-   Research Assistant, [New York State Division of the Budget](https://www.budget.ny.gov/), U.S., 05/2016 - 08/2018
 
 
 
-## Research Experience
+# Scholarships, Honors, and Awards
 
--   **Research Assistant**, [New York State Division of the Budget](https://www.budget.ny.gov/), 05/2016 - 08/2018
-
-
-
-## Scholarships, Honors, and Awards
-
--   **Helen Horowitz Excellence in Teaching Award**, University at Albany, SUNY, 2019
-
--   **Distinction in Preliminary Examinations**, University at Albany, SUNY, 2015
-
--   **Graduate Assistantship**, University at Albany, SUNY, 2014 - 2016
+-   *Helen Horowitz Excellence in Teaching Award*, University at Albany, SUNY, 2019
 
 
 
-## Skills
+# Conference and Seminar Presentations
 
--   **Computer**: R, Stata, MATLAB, SAS, LaTeX
-
--   **Language**: Chinese Mandarin (Native), English (Fluent)
+-   Central University of Finance and Economics (China Academy of Finance and Development)
 
 
 
-## Personal Information
 
--   **Date of Birth**: July 7, 1989
+# Skills
 
--   **Gender**: Male
+-   *Computer*: R, Stata, MATLAB, SAS, LaTeX
 
--   **Citizenship**: China
+-   *Language*: Chinese Mandarin (Native), English (Fluent)
+
+
+
