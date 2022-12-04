@@ -1,6 +1,6 @@
 ---
 title: "Liang Fu<br>付亮"
-image: "images/Photo.jpg"
+image: "images/20220926.jpg"
 output:
   postcards::trestles
 site: distill::distill_website
@@ -8,7 +8,9 @@ site: distill::distill_website
  
 Welcome to my personal website!
 
-I am an Assistant Professor of Economics in the [Department of Economics](https://www.xjtlu.edu.cn/en/study/departments/academic-departments/economics/){target="_blank"} at [International Business School Suzhou (IBSS)](https://www.xjtlu.edu.cn/en/study/departments/international-business-school-suzhou/){target="_blank"}, [Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en/){target="_blank"}. My main research fields are **Monetary Economics** and **International Economics**. My current research focuses on the transition of monetary policy in China. 
+I am an Assistant Professor of Economics in the [Department of Economics](https://www.xjtlu.edu.cn/en/study/departments/academic-departments/economics/){target="_blank"} at [International Business School Suzhou (IBSS)](https://www.xjtlu.edu.cn/en/study/departments/international-business-school-suzhou/){target="_blank"}, [Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en/){target="_blank"}. My main research fields are **Monetary Economics** and **International Economics**. 
+
+<!-- My current research focuses on the transition of monetary policy in China.  -->
 
 <br>
 <br>
