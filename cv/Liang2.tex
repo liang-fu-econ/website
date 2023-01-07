@@ -1,0 +1,286 @@
+\documentclass[a4paper, 10pt]{article}
+
+% Set your preferred link color here
+\def\mycolor{blue}
+
+\usepackage{changepage}
+\usepackage{enumitem}
+\usepackage[margin=0.75in]{geometry}
+\usepackage[colorlinks=true, linkcolor=\mycolor, citecolor=\mycolor, filecolor=\mycolor, urlcolor=\mycolor]{hyperref}
+\usepackage{needspace}
+\usepackage{mathpazo}
+\usepackage{tabu}
+
+\setlength{\parindent}{0cm} % Default is 15pt.
+
+\newcounter{mycounter}
+\setcounter{mycounter}{\theenumi}
+
+% Section of CV: \cvsec{name}
+\newcommand{\cvsec}[1]
+{
+	% Keep from breaking right after section. Adjust "2" to larger number if page is still breaking.
+	\needspace{2\baselineskip}
+	\noindent \textbf{#1}
+	
+	\vspace{2pt}
+	
+	\hrule
+	
+	\bigskip
+}
+
+% Chronological item: \cvitem{year}{entry}.
+% 
+% To accommodate multiple rows for "entry" just include them with e.g. \cvitem{2016}{some entry \\ & continued \\ & continued further}, where the "\\ &" separators take advantage of the fact that there is a tabular environment operating under the hood.
+\newcommand{\cvitem}[2]{#1 & #2 \\ & \\}
+
+% Include paper title with abstract: \cvpaper{title}{abstract}
+\newcommand{\cvpaper}[2]
+{
+\item #1 \\
+
+\emph{Abstract:} #2 \\ 	
+}
+
+% Unformatted environment: \begin{cvfree}{title} ... \end{cvfree}
+\newenvironment{cvfree}[1]
+{
+	\cvsec{#1}
+	}
+	{
+	\bigskip
+}
+
+% Chronological entries environment: \begin{cvchrono}{title} ... \end{cvchrono}
+\newenvironment{cvchrono}[1]
+{
+	\cvsec{#1}
+	% "6" below implies 6:1 ratio of text to dates. Change as needed.
+	\begin{tabu} to \linewidth {X[1,l]X[6,l]} 
+}
+{
+	\end{tabu}
+}
+	
+% Enumerated section environment: \begin{cvlist}{title} ... \end{cvlist}
+\newenvironment{cvlist}[1]
+{
+	\cvsec{#1}
+	\begin{enumerate}
+}
+{
+	\setcounter{mycounter}{\theenumi}
+	\end{enumerate}
+}
+
+% Enumerate section environment that keeps running counter: \begin{cvcontinue}{title} ... \end{cvcontinue}
+\newenvironment{cvcontinue}[1]
+{
+	\cvsec{#1}
+	\begin{enumerate}
+		\setcounter{enumi}{\themycounter}
+	}
+	{
+	\setcounter{mycounter}{\theenumi}
+	\end{enumerate}
+}
+
+
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+% Date of last update
+\begin{flushright}
+	December, 2016
+\end{flushright}
+
+
+
+
+
+
+\begin{center}
+	\huge \textsc{Liang Fu}
+\end{center}
+
+\bigskip \bigskip
+
+
+
+
+
+\begin{tabu} to \linewidth {X[l]X[r]}
+%	 & \emph{Office:} (212) 998-8036 \\
+	Hudson Building - Room 103  & \emph{Mobile:} (518) 423-8555 \\
+	1400 Washington Avenue     & \emph{Email:} \href{mailto:lfu@albany.edu}{lfu@albany.edu} \\
+	Albany, NY 12222            & \emph{Website:}  \href{http://liangfu.weebly.com}{liangfu.weebly.com}
+\end{tabu}
+
+\bigskip \bigskip
+
+
+
+
+
+
+\begin{cvchrono}{Education}
+	\cvitem{2014 - }{Ph.D. in Economics, University at Albany, NY, U.S. \\
+		& Thesis committee:   (chair),  } 
+	\cvitem{2014}{M.A. in Economics, Central University of Finance and Economics, Beijing, China}
+	\cvitem{2011}{B.S in Management, Qingdao University, Qingdao, China}
+\end{cvchrono}
+\bigskip 
+
+
+
+\begin{cvfree}{Research Areas}
+	International finance, Monetary policy, Macroeconomics.
+\end{cvfree}
+\bigskip 
+
+
+
+\begin{cvcontinue}{Publications}
+	\item ``Rare Shocks, Great Recessions'' with Vasco C\'{u}rdia and Marco Del Negro. \emph{Journal of Applied Econometrics}, Vol. 29(7), pp. 1031-1052, November/December 2014. \\
+	
+	\noindent Winner, Richard Stone Prize in Applied Econometrics for the best paper with substantive econometric application in the 2014 and 2015 volumes of the \emph{Journal of Applied Econometrics}. \\
+	
+	\emph{Abstract:}  We estimate a DSGE model where rare large shocks can occur, by replacing the commonly used Gaussian assumption with a Student's t distribution. Results from the Smets and Wouters (2007) model estimated on the usual set of macroeconomic time series over the 1964-2011 period indicate that 1) the Student's t specification is strongly favored by the data even when we allow for low-frequency variation in the volatility of the shocks, and 2) the estimated degrees of freedom are quite low for several shocks that drive U.S. business cycles, implying an important role for rare large shocks. This result holds even if we exclude the Great Recession period from the sample. We also show that inference about low-frequency changes in volatility -- and in particular, inference about the magnitude of Great Moderation -- is different once we allow for fat tails.
+\end{cvcontinue}
+
+\begin{cvcontinue}{Working Papers}
+	\cvpaper{``The Mortgage Credit Channel of Macroeconomic Transmission''}{
+	I investigate how the structure of the mortgage market influences macroeconomic dynamics, using a
+general equilibrium framework with prepayable debt and a limit on the ratio of mortgage payments to income.
+This realistic environment amplifies transmission from interest
+rates into debt, house prices, and economic activity. Monetary policy can more easily stabilize inflation due to this amplification, but
+contributes to larger fluctuations in credit growth. A relaxation of
+payment-to-income standards appears essential to the recent boom. A cap on payment-to-income ratios, not loan-to-value
+ratios, is the more effective macroprudential policy for limiting boom-bust cycles.
+		}
+	
+	\cvpaper{``Origins of Stock Market Fluctuations'' with Martin Lettau and Sydney Ludvigson}
+	{
+	Three mutually uncorrelated economic disturbances that we measure
+	empirically explain 85\% of the quarterly variation in real stock market
+	wealth since 1952. A model is employed to interpret these disturbances in
+	terms of three latent primitive shocks. In the short run, shocks that affect
+	the willingness to bear risk independently of macroeconomic fundamentals
+	explain most of the variation in the market. In the long run, the market is
+	profoundly affected by shocks that reallocate the rewards of a given level
+	of production between workers and shareholders. Productivity shocks play a
+	small role in historical stock market fluctuations at all horizons.	
+	}
+	
+\end{cvcontinue}
+
+%\begin{cvcontinue}{Work in Progress}
+%	\item ``Labor-Capital Inequality and the Macroeconomy'' with Sydney Ludvigson
+%	\item ``Large BVARs with Stochastic Volatility'' with Marco Del Negro and Domenico Giannone
+%	\item ``Liquidity and Macroeconomic Fluctuations: An Empirical Investigation'' with Marco Del Negro
+%	\item ``Sources of Heterogeneity in Retail Price-Setting Behavior'' with Bulat Gafarov, John Mondragon, and Leonid Ogrel
+%	\item ``The Consumption Response to Seasonal Income: How Much Can be Explained by Liquidity Constraints?'' with Greg Kaplan and Gianluca Violante
+%\end{cvcontinue}
+
+\begin{cvchrono}{Fellowships and Awards}
+	%	\cvitem{2016}{}
+	\cvitem{2016}{AREUEA Homer Hoyt Doctoral Dissertation Award (1\textsuperscript{st} Prize)}
+	\cvitem{2015 - 2016}{Dean's Dissertation Fellowship, New York University}
+	\cvitem{2015}{Macro Financial Modeling Fellowship, Becker Friedman Institute}
+	\cvitem{2010 - 2015}{McCracken Fellowship, New York University}
+	\cvitem{2014}{TACC-BP Parallel Programming Contest (1\textsuperscript{st} Place)}
+\end{cvchrono}
+
+
+\begin{cvchrono}{Research Employment}
+	\cvitem{2015}{Summer Research Internship, Federal Reserve Bank of New York}
+	\cvitem{2012 - 2015}{Research Assistant for Prof. Sydney Ludvigson}
+	\cvitem{2011, 2014}{Research Assistant for Prof. Gianluca Violante}
+	\cvitem{2008 - 2010}{Assistant Economist, Federal Reserve Bank of New York}
+\end{cvchrono}
+
+\begin{cvchrono}{Courses Taught}
+	%	\item Advanced Financial Economics III (15.442, MIT, Ph.D.) with Jonathan Parker and Adrien Verdelhan.
+	\cvitem{Fall 2016}{Ph.D., Advanced Financial Economics III (MIT Course 15.442)}
+	%	\cvitem{Spring 2013}{Econometrics, (Yeshiva University, Masters), TA for Prof. Marco Del Negro}
+	%	\cvitem{Spring 2012}{Macroeconomic Theory II (NYU, Ph.D), TA for Profs. Ricardo Lagos and Gianluca Violante}
+\end{cvchrono}
+
+
+
+
+\begin{cvchrono}{Conference Presentations}
+	\cvitem{2016}{Macroeconomics and Business CYCLE Conference, Midwest Macro, IAAE (Milan), SED Annual Meeting (Toulouse), CEPR European Summer Symposium in Financial Markets, MIT GCFP Annual Conference, Macro Finance Society (Chicago).}
+	\cvitem{2015}{Federal Reserve Bank of Chicago Rookie Conference.}
+	\cvitem{2014}{SED Annual Meeting (Toronto).}
+\end{cvchrono}
+
+%\begin{cvchrono}{Conference Discussions}
+%	\cvitem{2017}{American Financial Association, Econometric Society North American Winter Meeting (Chicago).}
+%\end{cvchrono}
+\begin{cvlist}{Conference Discussions}
+%	\small
+	\item ``The Equity Premium and the One Percent'' by A.A. Toda and K. Walsh. \emph{AFA Meetings}, Chicago, January 2017.
+	\item ``Household Debt and Monetary Policy: Revealing the Cash Flow Channel'' by M. Flod\'{e}n, M. Kilstr\"om, J. Sigurdsson, and R. Vestman. \emph{Econometric Society Winter Meetings}, Chicago, January 2017.
+	\item ``Regional Heterogeneity and Monetary Policy'' by M. Beraja, A. Fuster, E. Hurst and J. Vavra.  \emph{Econometric Society Winter Meetings}, Chicago, January 2017.
+\end{cvlist}
+
+
+
+
+%\begin{cvfree}{Teaching}
+%	Advanced Financial Economics III (15.442, MIT, Ph.D) with Jonathan Parker and Adrien Verdelhan.
+%\end{cvfree}
+
+\begin{cvfree}{Professional Activities}
+	Referee for:
+	\begin{enumerate}
+		\item American Economic Journal: Macroeconomics
+		\item Econometrica
+		\item International Journal of Central Banking
+		\item Journal of Applied Econometrics
+		\item Journal of Economic Dynamics and Control
+		\item Journal of Empirical Finance
+		\item Macroeconomic Dynamics
+		\item Review of Economic Dynamics
+	\end{enumerate}
+%Referee for {American Economic Journal: Macroeconomics, Econometrica, International Journal of Central Banking, Journal of Applied Econometrics, Journal of Economic Dynamics and Control, Journal of Empirical Finance, Macroeconomic Dynamics, Review of Economic Dynamics.} \\
+
+Conference Program Committee: 
+\begin{enumerate}
+	\item Society for Computational Economics Annual Conference (New York, 2017).
+	\item WFA Annual Meeting (Whistler, BC, 2017).
+\end{enumerate}
+\end{cvfree}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\begin{cvfree}{Personal Information}
+Born: July 7, 1989, 1986. Citizenship: China.
+\end{cvfree}
+
+\end{document}

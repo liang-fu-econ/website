@@ -16,4 +16,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### [Pulications]{style="color: blue;"}
 
-- Fu, Liang and Chun-Yu Ho.**"Monetary Policy Surprises and Interest Rates under China's Evolving Monetary Policy Framework."** [*Emerging Markets Review*]{style="color:blue;"} (2022): 100895. https://doi.org/10.1016/j.ememar.2022.100895
+- Fu, Liang and Chun-Yu Ho.**"Monetary Policy Surprises and Interest Rates under China's Evolving Monetary Policy Framework."** [*Emerging Markets Review*]{style="color:blue;"} 52 (2022): 100895. https://doi.org/10.1016/j.ememar.2022.100895
