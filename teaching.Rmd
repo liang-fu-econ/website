@@ -5,9 +5,17 @@ title: "Teaching"
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+### <span style="color: blue;">International Finance and Economics (Master)</span>
+
+Xi'an Jiaotong-Liverpool University: Spring 2022
+
+
+
+
 ### <span style="color: blue;">Economic Statistics (Undergraduate)</span>
 
 University at Albany, SUNY: Fall 2021
+
 
 
 

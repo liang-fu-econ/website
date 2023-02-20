@@ -785,6 +785,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   d-article table.gt_table td,
   d-article table.gt_table th {
     border-bottom: none;
+    font-size: 100%;
   }
 
   .html-widget {
@@ -1857,15 +1858,21 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        if ($(this).children()[0].nodeName == "D-FOOTNOTE") {
-          var fn = $(this).children()[0]
+        const citeChild = $(this).children()[0]
+        // Do not process if @xyz has been used without escaping and without bibliography activated
+        // https://github.com/rstudio/distill/issues/466
+        if (citeChild === undefined) return true
+
+        if (citeChild.nodeName == "D-FOOTNOTE") {
+          var fn = citeChild
           $(this).html(fn.shadowRoot.querySelector("sup"))
           $(this).id = fn.id
           fn.remove()
         }
         var refs = $(this).attr('data-cites').split(" ");
         var refHtml = refs.map(function(ref) {
-          return "<p>" + $('#ref-' + ref).html() + "</p>";
+          // Could use CSS.escape too here, we insure backward compatibility in navigator
+          return "<p>" + $('div[id="ref-' + ref + '"]').html() + "</p>";
         }).join("\n");
         window.tippy(this, {
           allowHTML: true,
@@ -2376,7 +2383,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2428,21 +2435,17 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
-<h3 id="economic-statistics-undergraduate"><span
-style="color: blue;">Economic Statistics (Undergraduate)</span></h3>
+<h3 id="international-finance-and-economics-master"><span style="color: blue;">International Finance and Economics (Master)</span></h3>
+<p>Xi’an Jiaotong-Liverpool University: Spring 2022</p>
+<h3 id="economic-statistics-undergraduate"><span style="color: blue;">Economic Statistics (Undergraduate)</span></h3>
 <p>University at Albany, SUNY: Fall 2021</p>
-<h3 id="intermediate-macroeconomics-undergraduate"><span
-style="color: blue;">Intermediate Macroeconomics
-(Undergraduate)</span></h3>
+<h3 id="intermediate-macroeconomics-undergraduate"><span style="color: blue;">Intermediate Macroeconomics (Undergraduate)</span></h3>
 <p>University at Albany, SUNY: Spring 2019, Fall 2020, Spring 2021</p>
 <!-- [<span style="color:blue;">Readings</span>](teaching/teaching_intermediate_macro.html){target="_blank"} -->
-<h3 id="money-and-banking-undergraduate"><span
-style="color: blue;">Money and Banking (Undergraduate)</span></h3>
-<p>University at Albany, SUNY: Summer 2018, Fall 2018, Fall 2019, Spring
-2020</p>
+<h3 id="money-and-banking-undergraduate"><span style="color: blue;">Money and Banking (Undergraduate)</span></h3>
+<p>University at Albany, SUNY: Summer 2018, Fall 2018, Fall 2019, Spring 2020</p>
 <!-- [<span style="color:blue;">Readings</span>](teaching/teaching_money_and_banking.html){target="_blank"} -->
-<div class="sourceCode" id="cb1"><pre
-class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
