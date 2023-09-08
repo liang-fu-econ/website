@@ -5,33 +5,27 @@ title: "Teaching"
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-### <span style="color: blue;">International Finance and Economics (Master)</span>
 
-Xi'an Jiaotong-Liverpool University: Spring 2022
+### [Financial Econometrics (Undergraduate)]{style="color: blue;"}
 
+**Xi'an Jiaotong-Liverpool University**: Fall 2023
 
+### [International Finance and Economics (Master)]{style="color: blue;"}
 
+**Xi'an Jiaotong-Liverpool University**: Spring 2022
 
-### <span style="color: blue;">Economic Statistics (Undergraduate)</span>
+### [Economic Statistics (Undergraduate)]{style="color: blue;"}
 
-University at Albany, SUNY: Fall 2021
+**University at Albany - State University of New York**: Fall 2021
 
+### [Intermediate Macroeconomics (Undergraduate)]{style="color: blue;"}
 
-
-
-### <span style="color: blue;">Intermediate Macroeconomics (Undergraduate)</span>
-
-University at Albany, SUNY: Spring 2019, Fall 2020, Spring 2021
+**University at Albany - State University of New York**: Spring 2019, Fall 2020, Spring 2021
 
 <!-- [<span style="color:blue;">Readings</span>](teaching/teaching_intermediate_macro.html){target="_blank"} -->
 
+### [Money and Banking (Undergraduate)]{style="color: blue;"}
 
-
-
-
-### <span style="color: blue;">Money and Banking (Undergraduate)</span>
-
-University at Albany, SUNY: Summer 2018, Fall 2018, Fall 2019, Spring 2020
+**University at Albany - State University of New York**: Summer 2018, Fall 2018, Fall 2019, Spring 2020
 
 <!-- [<span style="color:blue;">Readings</span>](teaching/teaching_money_and_banking.html){target="_blank"} -->
-

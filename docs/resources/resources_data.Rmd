@@ -19,11 +19,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - **eurostat**: <https://ec.europa.eu/eurostat>{target="_blank"}
 
-- **OECD data**: <https://data.oecd.org>{target="_blank"}
+- **OECD Data**: <https://data.oecd.org>{target="_blank"}
 
 - **Macrohistory Database**: <https://www.macrohistory.net/database>{target="_blank"}
 
 - **Economic Policy Uncertainty**: <http://www.policyuncertainty.com>{target="_blank"}
+
+- **Macro and Financial Uncertainty**: <https://www.sydneyludvigson.com/macro-and-financial-uncertainty-indexes>{target="_blank"}
 
 - **Inflation**: <https://www.worldbank.org/en/research/brief/inflation-database>{target="_blank"}
 
